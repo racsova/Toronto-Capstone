@@ -1,2 +1,2 @@
 # Toronto-Capstone
-Project to evaluate an AP_I integration with Foursquare and clustering
+Project to evaluate an API integration with Foursquare and clustering
